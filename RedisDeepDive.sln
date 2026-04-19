@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDeepDive.Domain", "RedisDeepDive.Domain\RedisDeepDive.Domain.csproj", "{429E1F1A-6478-4D61-8B3B-5DF54693DB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDeepDive.Application", "RedisDeepDive.Application\RedisDeepDive.Application.csproj", "{4479F0C6-DEB7-4112-B14A-A5A3B8CFE5B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDeepDive.Infrastructure", "RedisDeepDive.Infrastructure\RedisDeepDive.Infrastructure.csproj", "{C5A5B6F9-FB09-4C81-A4B7-7A49774294D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDeepDive.Api", "RedisDeepDive.Api\RedisDeepDive.Api.csproj", "{07D7CAA1-DDC8-4D68-9A9F-7C4351EC78DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429E1F1A-6478-4D61-8B3B-5DF54693DB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429E1F1A-6478-4D61-8B3B-5DF54693DB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429E1F1A-6478-4D61-8B3B-5DF54693DB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429E1F1A-6478-4D61-8B3B-5DF54693DB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4479F0C6-DEB7-4112-B14A-A5A3B8CFE5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4479F0C6-DEB7-4112-B14A-A5A3B8CFE5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4479F0C6-DEB7-4112-B14A-A5A3B8CFE5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4479F0C6-DEB7-4112-B14A-A5A3B8CFE5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A5B6F9-FB09-4C81-A4B7-7A49774294D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A5B6F9-FB09-4C81-A4B7-7A49774294D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A5B6F9-FB09-4C81-A4B7-7A49774294D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A5B6F9-FB09-4C81-A4B7-7A49774294D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D7CAA1-DDC8-4D68-9A9F-7C4351EC78DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D7CAA1-DDC8-4D68-9A9F-7C4351EC78DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D7CAA1-DDC8-4D68-9A9F-7C4351EC78DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D7CAA1-DDC8-4D68-9A9F-7C4351EC78DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
